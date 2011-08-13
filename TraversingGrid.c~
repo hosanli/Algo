@@ -2,7 +2,7 @@
 
 /**
  * All N by M grids can be reduced to 3 basic grid shapes by taking
- * off the outer loop, e.g. a 4 x 5 grid can be reduce to a 2 x 3
+ * off the outer loop, e.g. a 4 x 5 grid can be reduce to a 3 x 4
  * grid without affecting the final output. Thus we will have 3
  * basic cases:  
  * 		1 x c  ->  R,  c >= 1
