@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * All N by M grids can be reduced to 3 basic grid shapes by taking
+ * All N by M grid can be reduced to 3 basic grid shape by taking
  * off the outer loop, e.g. a 4 x 5 grid can be reduce to a 3 x 4
  * grid without affecting the final output. Thus we will have 3
  * basic cases:  
